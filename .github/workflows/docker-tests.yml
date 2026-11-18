@@ -1,4 +1,4 @@
-name: Testes com docker
+name: Testes com Docker Compose
 
 on:
     push:
